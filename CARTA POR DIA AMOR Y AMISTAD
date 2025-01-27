@@ -1,0 +1,26 @@
+<H1> CARTA POR  DIA DEL AMOR Y AMISTAD</H1>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CARTA</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main>
+        <div class="container-letter">
+            <div class="cover"></div>
+            <span class="heart">❤️</span>
+            <p class="paper" id="mainMessage">
+               HOLA GUSTAVO GARCIA SILUPU.
+            </p>
+            <div class="letter"></div>
+        </div>
+        <div class="options">
+            <button id="open" class="button">Abrir</button>
+            <button id="close" class="button">Cerrar</button>
+        </div>
+    </main>
+    <script src="script.js"></script>    
+</body>
+</html>
